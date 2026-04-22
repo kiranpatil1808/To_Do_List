@@ -71,6 +71,6 @@ Contributions are welcome!
 
 ---
 
-##Author 
+## Author 
 Kiran Patil
 
