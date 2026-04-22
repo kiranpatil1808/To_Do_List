@@ -39,17 +39,7 @@ python todo_list.py
 
 ---
 
-## Project Structure  
 
-```
-to-do-list/
-│
-├── todo_list.py            # Main application file
-├── README.md               # Documentation
-
-```
-
----
 
 ##  How to Use  
 
@@ -81,6 +71,4 @@ Contributions are welcome!
 
 ---
 
-## License  
 
-This project is open-source and available under the **MIT License**.  
