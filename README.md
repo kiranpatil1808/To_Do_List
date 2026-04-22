@@ -7,12 +7,12 @@ This project provides a GUI-based task management tool where users can add, upda
 
 ## Features  
 
-- ✅ Add new tasks.  
-- ✅ Delete a single task or **delete all** tasks.  
-- ✅ Sort tasks in **ascending or descending order**.  
-- ✅ Choose a **random task**.  
-- ✅ Display total **number of tasks**.  
-- ✅ Simple and user-friendly interface.  
+-  Add new tasks.  
+-  Delete a single task or **delete all** tasks.  
+-  Sort tasks in **ascending or descending order**.  
+-  Choose a **random task**.  
+-  Display total **number of tasks**.  
+-  Simple and user-friendly interface.  
 
 ---
 
@@ -54,10 +54,10 @@ python todo_list.py
 
 ## Future Enhancements  
 
-- 🔹 Add **task categories** (Work, Personal, Study, etc.).  
-- 🔹 Add **deadline/reminder feature**.  
-- 🔹 Save tasks using **SQLite database or JSON**.  
-- 🔹 Improve UI with modern design and icons.  
+-  Add **task categories** (Work, Personal, Study, etc.).  
+-  Add **deadline/reminder feature**.  
+-  Save tasks using **SQLite database or JSON**.  
+-  Improve UI with modern design and icons.  
 
 ---
 
